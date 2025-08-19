@@ -1,0 +1,27 @@
+# Challenge 1 - Data Science LATAM
+
+## Descripción
+Este proyecto resuelve el primer desafío de Data Science para LATAM, cuyo objetivo es analizar datos de ventas de cuatro tiendas y recomendar la mejor opción para vender productos, considerando ingresos, categorías más vendidas, calificaciones de clientes y costos de envío.
+
+## Estructura del Proyecto
+- `AluraStoreLatam.ipynb`: Notebook principal con el análisis exploratorio, visualizaciones y recomendaciones.
+- `README`: Este archivo, con la descripción y guía de uso del proyecto.
+
+## Instrucciones de Uso
+1. Clona este repositorio o descarga los archivos.
+2. Abre el notebook `AluraStoreLatam.ipynb` en Jupyter Notebook o VSCode.
+3. Ejecuta las celdas para importar los datos, realizar el análisis y visualizar los resultados.
+4. Consulta el informe final en el notebook para ver la recomendación basada en los datos.
+
+## Requisitos
+- Python 3.x
+- Pandas
+- Matplotlib
+
+Instala los paquetes necesarios con:
+```bash
+pip install pandas matplotlib
+```
+
+## Autor
+Oscar (Data Science LATAM Challenge 1)
